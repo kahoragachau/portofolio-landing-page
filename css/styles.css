@@ -3,13 +3,33 @@
     padding: 0px;
     box-sizing: border-box;
 }
+#about-me{
+    text-align: center;
+}
+.about-me{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid red;
+    padding: 25px;
+}
+.about-me-description{
+    border: 2px solid black;
+    text-align:left;
+    font-size: 16px;
+    width: 500px;
+    padding: 25px;
+    margin-left: 500px;
+}
+/* .hobbies{
+    list-style-type:lower-roman;
+} */
 #my-projects{
     color: red;
     text-align: center;
 }
 .card{
+    width: 28em;
     margin: 50px;
-    padding: 25px;
 }
 .project-section{
     border: 2px solid pink;
