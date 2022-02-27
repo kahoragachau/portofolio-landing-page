@@ -12,7 +12,6 @@
     height: 100vh;
     display: flex;
     flex-direction: row;
-    border: 2px solid red;
     padding: 25px;
 }
 .profile-image{
@@ -20,7 +19,6 @@
     width: 350px;
 }
 .about-me-description{
-    border: 2px solid black;
     text-align:justify;
     font-size: 24px;
     /* width: 500px; */
@@ -44,7 +42,6 @@
 }
 .project-section{
     height: 100vh;
-    border: 2px solid pink;
     display: flex;
     flex-direction: row;
 }
