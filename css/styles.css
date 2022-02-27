@@ -3,3 +3,16 @@
     padding: 0px;
     box-sizing: border-box;
 }
+#my-projects{
+    color: red;
+    text-align: center;
+}
+.card{
+    margin: 50px;
+    padding: 25px;
+}
+.project-section{
+    border: 2px solid pink;
+    display: flex;
+    flex-direction: row;
+}
