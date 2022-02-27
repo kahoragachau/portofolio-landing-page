@@ -2,6 +2,11 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    background-color: #000 !important;
+    color: #fff;
+}
+html{
+    background-color: #000;
 }
 #about-me{
     text-align: center;
@@ -12,10 +17,13 @@
     border: 2px solid red;
     padding: 25px;
 }
+.profile-image{
+    width: 350px;
+}
 .about-me-description{
     border: 2px solid black;
     text-align:left;
-    font-size: 16px;
+    font-size: 24px;
     width: 500px;
     padding: 25px;
     margin-left: 500px;
@@ -24,7 +32,6 @@
     list-style-type:lower-roman;
 } */
 #my-projects{
-    color: red;
     text-align: center;
 }
 .card{
