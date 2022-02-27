@@ -1,6 +1,6 @@
 # Portofolio Landing Page
 
-## Kahora Gachau
+## By Kahora Gachau
 
 ## Project descrption
 this is a portofolio landing page in it it contains my background information, my projects and skills and also my contact information
