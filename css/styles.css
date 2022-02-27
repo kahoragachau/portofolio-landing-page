@@ -15,13 +15,14 @@
     border: 2px solid red;
     padding: 25px;
 }
-/* .profile-image{
-    width: 30px;
-} */
+.profile-image{
+    height: 350px;
+    width: 350px;
+}
 .about-me-description{
     border: 2px solid black;
     text-align:justify;
-    font-size: 16px;
+    font-size: 24px;
     /* width: 500px; */
     padding: 25px;
     margin-left: 50px;
@@ -33,10 +34,16 @@
     text-align: center;
 }
 .card{
+    height: 75vh;
     width: 28em;
     margin: 50px;
+    background-color: aquamarine !important;
+}
+.card-link{
+    margin-top: 250px;
 }
 .project-section{
+    height: 100vh;
     border: 2px solid pink;
     display: flex;
     flex-direction: row;
