@@ -24,7 +24,7 @@
 .hobbies{
   height: 100vh;
 }
-.hobbies {
+.hobbies ul{
     list-style-type: lower-roman;
 }
 .about-me-description{
