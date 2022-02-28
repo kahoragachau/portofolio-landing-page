@@ -18,16 +18,21 @@
     height: 350px;
     width: 350px;
 }
+#my-hobbies{
+    text-align: center;
+}
+.hobbies{
+  height: 100vh;
+}
+.hobbies {
+    list-style-type: lower-roman;
+}
 .about-me-description{
     text-align:justify;
     font-size: 24px;
-    /* width: 500px; */
     padding: 25px;
     margin-left: 50px;
 }
-/* .hobbies{
-    list-style-type:lower-roman;
-} */
 #my-projects{
     text-align: center;
 }
